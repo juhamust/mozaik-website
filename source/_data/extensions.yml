@@ -54,7 +54,7 @@
 
 - name:        mozaik-ext-calendar
   description: Google calendar widgets for Mozaïk.
-  link:        https://github.com/SC5/mozaik-ext-analytics
+  link:        https://github.com/SC5/mozaik-ext-calendar
   tags:
     - google
     - calendar
