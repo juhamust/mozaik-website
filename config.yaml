@@ -235,7 +235,7 @@ params:
     - name:        mozaik-ext-switch
       description: Multiple widgets with periodic switching.
       link:        https://github.com/juhamust/mozaik-ext-switch
-      compat:      [1]
+      compat:      [1, 2]
       tags:
         - switch
 
